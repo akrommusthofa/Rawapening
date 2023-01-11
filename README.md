@@ -1,16 +1,21 @@
-# rawapening
+# Rawa Pening
 
-A new Flutter project.
+Tsaqif Akrom Musthofa
+3.34.21.2.24
+IK2C
 
-## Getting Started
+## Halaman Utama
 
-This project is a starting point for a Flutter application.
+![Img Home](assets/images/home.PNG)
 
-A few resources to get you started if this is your first Flutter project:
+Halaman Utama menampilkan sebuah list wisata yang berada di sekitar Rawa Pening.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Halaman Detail
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Img detail](assets/images/detail_screen.PNG)
+
+Halaman Detail menampilkan informasi mengenai wisata atau tempat yang dipilih.
+
+
+Follow me:
+- [Instagram](https://www.instagram.com/akrommusthofa_)
